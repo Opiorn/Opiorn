@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Opiorn
 - 👀 I’m interested in computing and retro gaming
-- 🌱 I’m currently learning c++ and typescript
+- 🌱 I’m currently learning c++ and typescript nodejs
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me : amaury.dc@free.fr
 
